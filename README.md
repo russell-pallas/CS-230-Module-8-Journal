@@ -1,1 +1,13 @@
 # CS-230-Module-8-Journal
+
+The Gaming Room is a smaller company who wanted a gaming application that would allow for multiple players to participate in a game called "Draw it or Lose it". This game essentially allowed for a team to guess what was being displayed from a slowly rendered image. Teammates could then guess what was being displayed, however, if they were unable to guess what was beung rendered, then the other team had the opportunity to make a guess. This game was to be written in Java and also included Maven use when it came to the security aspect of it. The company was concerned about the cost of production of the program. These concerns were discussed in the design template. 
+
+One thing that I found I did particularly well was think about the big picture and all of the moving parts working together rather than separately. This meant that memory and storage concerns had to be considered alongside network and latency concerns, for example. 
+
+One thing that I found helpful from the design template is contemplating how this task could be completed in other ways and what other combinations could be implemented (OS, IDE, etc.). I think this is important becasue people will alwyas have a favorite when it comes to their IDE of choice. I know that this course was completed mostly on Eclipse, however, when it comes to a Java IDE, I am an IntelliJ guy. 
+
+One thing that I would change on the template is giving the actual development of the application more thought rather than the serverside concerns that we focused on. I think it is important to know all aspects of the serverside area, however, without a more well thought out application, the server concerns are null. 
+
+The users' needs are so important because that it the only reason that you are doing all of this work. Perhaps the most important user concern us price. Ultimtely every choice comes down to price and spending. Before this project, I never would have thought about price of development on a program. Now, I understand just how imprtant it is to design a program within your client's means. 
+
+My approach to designing software is to make something that works and then improve on it later on. This absolutely is not a smart thing to do, especially when considering a program using complex data structures. Say, for example, you make something that uses a binary search tree as a data structure, however, a month later you find that you really should have used a hash table. This would cause you to almost have to rewrite the entire program. Better planning will lead to better execution and I am going to do that going forward. 
